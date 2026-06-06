@@ -1,0 +1,10 @@
+models/
+garments/
+results/
+results_video/
+.env
+__pycache__/
+*.pyc
+venv/
+*.webp
+*.mp4
